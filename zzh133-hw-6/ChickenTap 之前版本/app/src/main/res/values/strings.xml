@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChickenTap</string>
+
+    <string name="new_game">New Game</string>
+    <string name="chicken">Chicken</string>
+    <string name="score">Score</string>
+    <string name="game">Game</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="back">Back</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="test_string">Test String</string>
+
+    <!-- Plurals -->
+    <plurals name="leaderboard">
+        <item quantity="one">Leaderboard</item>
+        <item quantity="other">Leaderboards</item>
+    </plurals>
+
+</resources>
