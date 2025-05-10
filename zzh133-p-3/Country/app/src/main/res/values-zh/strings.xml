@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">国家搜索器</string>
+    <string name="welcome_message">欢迎来到国家探索应用</string>
+    <string name="example_country">示例国家：🇺🇸 美国</string>
+    <string name="weather_data">天气数据</string>
+    <string name="temperature_display">温度：%1$s %2$s</string>
+    <string name="wind_speed_display">风速：%1$s %2$s</string>
+    <string name="api_data_notice">（部分数据以英文显示）</string>
+    <string name="enter_country_hint">输入国家名称</string>
+    <string name="go">搜索</string>
+    <string name="going">搜索中...</string>
+    <string name="app_icon_desc">应用图标</string>
+    <string name="app_name_info">应用名称：%1$s</string>
+    <string name="version_info">版本号：%1$s</string>
+    <string name="build_number_info">构建编号：%1$d</string>
+    <string name="build_date_info">构建日期：%1$s</string>
+    <string name="developer_id_info">开发者ID：%1$s</string>
+    <string name="settings_title">设置</string>
+    <string name="language_title">语言</string>
+    <string name="theme_title">主题</string>
+    <string name="temperature_unit_title">温度单位</string>
+    <string name="choose_temp_unit">选择温度单位</string>
+    <string name="data_source_title">数据来源</string>
+    <string name="selected_file_label">已选文件：%1$s</string>
+    <string name="details_for_country">%1$s 的详细信息</string>
+    <string name="country_label">国家：%1$s</string>
+    <string name="capital_label">首都：%1$s</string>
+    <string name="region_label">地区：%1$s</string>
+    <string name="population_label">人口：%1$d</string>
+    <string name="currencies_label">货币：%1$s</string>
+    <string name="loading_country_details">正在加载国家详情...</string>
+    <!-- Language Options -->
+    <string name="language_english">英语</string>
+    <string name="language_chinese">中文</string>
+
+    <!-- Theme Options -->
+    <string name="theme_auto">自动</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+
+    <!-- Data Source Options -->
+    <string name="data_source_api">接口数据</string>
+    <string name="data_source_local_file">本地文件</string>
+
+    <string name="api_data_language_note">提示：部分接口数据可能为英文。</string>
+
+    <string name="home">首页</string>
+    <string name="countries">国家列表</string>
+    <string name="settings">设置</string>
+    <string name="info">关于</string>
+</resources>
+

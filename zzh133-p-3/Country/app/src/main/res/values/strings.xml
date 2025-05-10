@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="welcome_message">Welcome to the Country App</string>
+    <string name="example_country">Example country: 🇺🇸 United States</string>
+    <string name="weather_data">Weather Data</string>
+    <string name="temperature_display">Temperature: %1$s %2$s</string>
+    <string name="wind_speed_display">Wind Speed: %1$s %2$s</string>
+    <string name="api_data_notice">(Some data is displayed in English)</string>
+    <string name="enter_country_hint">Enter country name</string>
+    <string name="go">Go</string>
+    <string name="going">Going...</string>
+    <string name="app_icon_desc">App Icon</string>
+    <string name="app_name_info">App Name: %1$s</string>
+    <string name="version_info">Version: %1$s</string>
+    <string name="build_number_info">Build Number: %1$d</string>
+    <string name="build_date_info">Build Date: %1$s</string>
+    <string name="developer_id_info">Developer ID: %1$s</string>
+    <string name="settings_title">Settings</string>
+    <string name="language_title">Language</string>
+    <string name="theme_title">Theme</string>
+    <string name="temperature_unit_title">Temperature Unit</string>
+    <string name="choose_temp_unit">Choose Temperature Unit</string>
+    <string name="data_source_title">Data Source</string>
+    <string name="selected_file_label">Selected File: %1$s</string>
+    <string name="details_for_country">Details for %1$s</string>
+    <string name="country_label">Country: %1$s</string>
+    <string name="capital_label">Capital: %1$s</string>
+    <string name="region_label">Region: %1$s</string>
+    <string name="population_label">Population: %1$d</string>
+    <string name="currencies_label">Currencies: %1$s</string>
+    <string name="loading_country_details">Loading country details...</string>
+    <!-- Language Options -->
+    <string name="language_english">English</string>
+    <string name="language_chinese">Chinese</string>
+
+    <!-- Theme Options -->
+    <string name="theme_auto">Auto</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <!-- Data Source Options -->
+    <string name="data_source_api">API</string>
+    <string name="data_source_local_file">Local File</string>
+
+    <string name="api_data_language_note">Note: Some API data may be in English.</string>
+
+    <string name="home">Home</string>
+    <string name="countries">Countries</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+</resources>

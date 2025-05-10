@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Memez</string>
+    <string name="_40">Sakura</string>
+    <string name="_41">Rustic</string>
+    <string name="_42">Verdant</string>
+    <string name="_43">Lush</string>
+    <string name="_44">Enchanted</string>
+    <string name="_45">Scenic</string>
+    <string name="_46">Frozen</string>
+    <string name="_47">Majestic</string>
+    <string name="_01">Since launch we showed you</string>
+    <string name="_02">meme</string>
+    <string name="_03">clear</string>
+    <string name="_04">next</string>
+    <string name="_05">download</string>
+    <string name="_06">Your meme counter is cleared</string>
+    <string name="_07">Your meme image is downloaded</string>
+</resources>

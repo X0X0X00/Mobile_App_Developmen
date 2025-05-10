@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Memez</string>
+    <string name="_40">Sakura</string>
+    <string name="_41">Rustique</string>
+    <string name="_42">Verdoyant</string>
+    <string name="_43">Luxuriant</string>
+    <string name="_44">Enchanté</string>
+    <string name="_45">Scénique</string>
+    <string name="_46">Gelé</string>
+    <string name="_47">Majestueux</string>
+    <string name="_01">Depuis le lancement, nous vous avons montré</string>
+    <string name="_02">mème</string>
+    <string name="_03">effacer</string>
+    <string name="_04">suivant</string>
+    <string name="_05">télécharger</string>
+    <string name="_06">Votre compteur de mèmes est réinitialisé</string>
+    <string name="_07">Votre image de mème est téléchargée</string>
+
+</resources>
