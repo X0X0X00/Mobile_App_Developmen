@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mood</string>
+    <string name="quote_01">Is\'s a beautiful day</string>
+    <string name="quote_02">Just OK</string>
+    <string name="quote_03">Not in a good place</string>
+</resources>
