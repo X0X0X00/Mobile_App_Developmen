@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">اضغط على الدجاجة</string>
+
+    <string name="new_game">لعبة جديدة</string>
+    <string name="chicken">دجاجة</string>
+    <string name="score">النتيجة</string>
+    <string name="game">لعبة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="info">معلومات</string>
+    <string name="back">رجوع</string>
+
+    <string name="unknown">غير معروف</string>
+    <string name="test_string">سلسلة اختبار</string>
+
+    <!-- Plurals -->
+    <plurals name="leaderboard">
+        <item quantity="zero">لا توجد لوائح متصدرين</item>
+        <item quantity="one">لائحة المتصدرين</item>
+        <item quantity="two">لائحتا المتصدرين</item>
+        <item quantity="few">عدة لوائح متصدرين</item>
+        <item quantity="many">العديد من لوائح المتصدرين</item>
+        <item quantity="other">لوائح المتصدرين</item>
+    </plurals>
+</resources>
